@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <g fill="#d2ba74">
+    <!-- necktie -->
+    <path d="M92 40h16l6 14-14 10-14-10Z"/>
+    <path d="M92 62h16l10 60-18 24-18-24Z"/>
+  </g>
+  <!-- slash through it -->
+  <g stroke="#d2ba74" stroke-width="9" stroke-linecap="round">
+    <path d="M56 56l88 88"/>
+  </g>
+  <circle cx="56" cy="56" r="7" fill="#0e0d0c"/>
+  <circle cx="144" cy="144" r="7" fill="#0e0d0c"/>
+</svg>
